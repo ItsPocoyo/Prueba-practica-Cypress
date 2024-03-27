@@ -1,0 +1,19 @@
+{
+  "name": "prueba-practica-cypress",
+  "version": "1.0.0",
+  "description": "Prueba practica para puesto de trabajo",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "cypress",
+    "testing",
+    "automation"
+  ],
+  "author": "Esteban Castro",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.7.1"
+  }
+}
